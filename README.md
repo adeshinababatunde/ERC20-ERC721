@@ -1,27 +1,12 @@
-# Basic Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
-
 1. IPFS links:
 
 - First Nft - https://ipfs.io/ipfs/QmcTSUbJbzFWvLxdBk9f8ZjK22Zo3Ym5zPADqjpSnqmzvY
 - Second Nft - https://ipfs.io/ipfs/Qme9tmSJv25k14e3jYhczhzKnr2QCbGG4RhrKwu6Eyaco4
 
-2. Address
-ERC20 deployed address = https://mumbai.polygonscan.com/address/0x5FbDB2315678afecb367f032d93F642f64180aa3
-ERC721 deployed address = https://mumbai.polygonscan.com/address/0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+
+2. Ropsten Address
+ERC20 deployed address = https://ropsten.etherscan.io/address/0xbb6ffb47e9002a53a2720c5af30e9e017edc3553#code
+ERC721 deployed address = https://ropsten.etherscan.io/tx/0xa099616e109645fe6a38fc2585e5306a79921e3699211d87182a693bbf85483a
 
 3. Metadata Structure
     {
